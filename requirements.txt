@@ -2,7 +2,7 @@ aiofiles
 aiohttp
 asyncio
 pyrogram==1.4.16
-git+https://github.com/AnonymousR1025/yt-dl@master
+git+https://github.com/ytdl-patched/yt-dlp
 python-arq
 python-dotenv
 py-tgcalls==0.8.6
