@@ -10,4 +10,5 @@ gitpython
 requests
 TgCrypto
 wget
-youtube-search-python==1.4.6
+youtube-search-python
+youtube-search
